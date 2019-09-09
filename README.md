@@ -2,6 +2,8 @@
 
 Please read ReleaseNotes.txt when upgrading your version of Cicero, for any important new feature updates or migration information!
 
+To download the latest uncompiled release, visit https://github.com/ehaber64/Cicero-Word-Generator-1
+
 The directory structure contains a number of projects:
 
 WordGenerator/
@@ -42,3 +44,4 @@ clinamen/
 
  ReleaseBuilds/
 	Post-build scripts in Visual Studio are used to copy the output release builds of various projects into this directory. This directory is then suitable for zipping up and distributing to those who are interested in the binaries only without source code.
+
